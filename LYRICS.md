@@ -2,16 +2,16 @@
 ## IAM
 
 
-### Choeur  
+### **Choeur**
 L'École du micro d'argent\
 L'École du micro d'argent\
 L'École du micro d'argent\
 L'École du micro d'argent\
 L'École du micro d'argent\
 L'École du micro d'argent\
-L'École du micro d'argent\
-\
-### Shurik'n
+L'École du micro d'argent
+
+### **Shurik'n**
 Assis en tailleur, voilà des heures que je médite\
 Sur ma montagne et je n'arrive pas à faire le vide\
 Je focalise sur le diaphragme, j'augmente mon énergie\
@@ -33,9 +33,9 @@ Je sème la terreur quand je frappe d'estoc et de taille\
 Je sens l'esprit du félin m'envahir\
 À ce stade seul le sang me procure du plaisir\
 Mes griffes gravent les couleurs de l'Empire\
-Plus grand que celui d'Alexandre dont je suis le défenseur\
-\
-### Choeur
+Plus grand que celui d'Alexandre dont je suis le défenseur
+
+### **Choeur**
 L'École du micro d'argent\
 L'École du micro d'argent\
 Je représente\
@@ -46,9 +46,9 @@ L'École du micro d'argent\
 L'École du micro d'argent\
 Je représente\
 L'École du micro d'argent\
-L'École du micro d'argent\
-\
-### Akhenaton
+L'École du micro d'argent
+
+### **Akhenaton**
 Mon sabre scintille, je médite accroupi sous les branches d'un saule\
 Pleure, je défends l'honneur de mon école, fils\
 Le troisième œil scrute le terrain, la tactique\
@@ -69,9 +69,9 @@ La bataille a débuté, tiens\
 Ce coup vient d'un expert à la guerre\
 Vaillant praticien des arts martiens\
 Délégué pour mettre un terme à ces horreurs\
-Tel est mon labeur, tu sais de qui je défends l'honneur\
-\
-### Choeur
+Tel est mon labeur, tu sais de qui je défends l'honneur
+
+### **Choeur**
 L'École du micro d'argent\
 L'École du micro d'argent\
 Je représente\
